@@ -72,3 +72,25 @@ Event(payload=Blah 48, threadName=null, handlerName=null)
 Event(payload=Blah 49, threadName=null, handlerName=null)
 
 Process finished with exit code 0
+
+
+alsi -a
+
+                  +			OS: Arch Linux x86_64
+                  #			Hostname: hpc
+                 ###			Uptime: 8:27, 40 sec
+                #####			Kernel: 5.2.14-arch2-1-ARCH
+                ######			Shell: /bin/bash
+               ; #####;			Packages: 1490
+              +##.#####			Window Manager: Unknown
+             +##########		GTK2 theme: Numix-Frost-Light
+            #############;		GTK2 icon theme: Numix
+           ###############+		GTK2 font name: Lato 11
+          #######   #######		RAM: 9297M / 64340M (14%)
+        .######;     ;###;`".		SWAP: 0M / 32172M (0%)
+       .#######;     ;#####.		CPU: AMD Ryzen Threadripper 2950X 16-Core Processor
+       #########.   .########`		Boot: 62M / 488M (14%) (ext4)
+      ######'           '######		Efi: 392K / 511M (1%) (vfat)
+     ;####                 ####;	Root: 131G / 437G (32%) (ext4)
+     ##'                     '##
+    #'                         `#
