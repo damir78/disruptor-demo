@@ -8,4 +8,7 @@ import lombok.NoArgsConstructor;
 public class Event<T> {
 
   private T payload;
+
+  private String threadName;
+  private String handlerName;
 }
